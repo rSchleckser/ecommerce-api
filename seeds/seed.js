@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
 inventorySeed = [{
     brand:'Nemo',
     name: 'Fillo Pillow',
@@ -123,12 +118,7 @@ inventorySeed = [{
     available: true,
     color: 'Charcoal'
 },
-<<<<<<< HEAD
-  // ----------------------------- Alex starts here -----------------------------
-  {
-=======
 {
->>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
     brand: "Sea to Summit ",
     name: "Aeros Down Pillow",
     price: 64.95,
@@ -205,63 +195,6 @@ inventorySeed = [{
     size: "small",
     available: true,
     color: "blue",
-<<<<<<< HEAD
-  },
-  {
-    brand: "Cocoon",
-    name: "AirCore Ultralight Travel Pillow",
-    price: 36.95,
-    type: "Pillow",
-    rating: 3.6,
-    features: ["Synthetic", "Air"],
-    description:
-      "Inflatable air core surrounded by soft polyester fill provides an adjustable level of support and comfort",
-    size: "small",
-    available: true,
-    color: "light blue",
-  },
-  {
-    brand: "Outdoor Afro + REI Co-op ",
-    name: "Nature Nap Satin Pillow",
-    price: 60,
-    type: "Pillow",
-    rating: 4.3,
-    features: ["Synthetic", "Air"],
-    description:
-      "Made together by Outdoor Afro + REI Co-op, celebrating Black joy, connections in nature and more inclusion in outdoor recreation",
-    size: "small",
-    available: true,
-    color: "Rejuvenate Blue Aster",
-  },
-  {
-    brand: "Big Agnes ",
-    name: "Pumphouse Ultra",
-    price: 39.95,
-    type: "Pillow",
-    rating: 4.1,
-    features: ["Synthetic", "Air"],
-    description:
-      "Drastically reduce sleeping-pad inflation time",
-    size: "one size",
-    available: true,
-    color: "Lime Green",
-  },
-  {
-    brand: "HEST ",
-    name: "Pillowcase",
-    price: 19,
-    type: "Pillow",
-    rating: 4,
-    features: ["Synthetic", "Air"],
-    description:
-      "Standard Pillow Case is compatible with HEST Standard Pillow; Camp Pillowcase is compatible with the HEST Camp Pillow (pillows not included)",
-    size: "small",
-    available: true,
-    color: "gray",
-  },
-];
-=======
   }];
 
 module.exports = {inventorySeed}
->>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
