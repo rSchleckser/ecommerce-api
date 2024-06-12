@@ -2,6 +2,10 @@ const mongoose = require('mongoose');
 
 const inventorySchema = new mongoose.Schema(
     {
+<<<<<<< HEAD
+=======
+        brand: String,
+>>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
         name: String,
         price: Number,
         type: String,
@@ -10,7 +14,10 @@ const inventorySchema = new mongoose.Schema(
         description: String,
         img: String,
         size: String,
+<<<<<<< HEAD
         quantity: String,
+=======
+>>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
         available: String,
         color: String
     },

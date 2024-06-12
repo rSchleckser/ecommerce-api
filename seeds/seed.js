@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
 inventorySeed = [{
     brand:'Nemo',
     name: 'Fillo Pillow',
@@ -118,8 +123,12 @@ inventorySeed = [{
     available: true,
     color: 'Charcoal'
 },
+<<<<<<< HEAD
   // ----------------------------- Alex starts here -----------------------------
   {
+=======
+{
+>>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
     brand: "Sea to Summit ",
     name: "Aeros Down Pillow",
     price: 64.95,
@@ -196,6 +205,7 @@ inventorySeed = [{
     size: "small",
     available: true,
     color: "blue",
+<<<<<<< HEAD
   },
   {
     brand: "Cocoon",
@@ -250,3 +260,8 @@ inventorySeed = [{
     color: "gray",
   },
 ];
+=======
+  }];
+
+module.exports = {inventorySeed}
+>>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2

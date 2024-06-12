@@ -4,11 +4,19 @@
   "description": "\"# ecommerce-api\"",
   "main": "server.js",
   "scripts": {
+<<<<<<< HEAD
     "start": "node server.js",
     "dev": "nodemon"
   },
   "keywords": [],
   "author": "Alejandra Valdivia",
+=======
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon"
+  },
+  "author": "",
+>>>>>>> 5af699387013dfc83f883a03f2c0dbffbd616de2
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
